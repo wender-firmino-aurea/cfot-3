@@ -5,4 +5,4 @@ function test() {
 }
 
 if (module == require.main) require('test').run(test);
-//just a new comment
+//just a new comment but ignore this
